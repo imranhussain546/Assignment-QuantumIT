@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuantumIT</string>
+    <string name="Navigationheader">Navigation Header</string>
+    <string name="NavigationClose">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
